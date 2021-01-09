@@ -9,6 +9,6 @@ I am passionate and in love with Front End, my being is creative and I always li
 - 🌱 I’m currently learning Go
 - 💬 Ask me about programming topics
 - 📫 How to reach me: (santiago9606@gmail.com)
-- 💼 [a relative link](https://linkedin.com/in/santiago-arango-gutierrez/)
+- 💼 [LinkedIn](https://linkedin.com/in/santiago-arango-gutierrez/)
 - 😄 Pronouns: Sachi
 
