@@ -7,7 +7,6 @@ I am passionate and in love with Front End, my being is creative and I always li
 
 - 🔭 I’m currently working on Clínica Somer Rionegro (Ant) 🔖
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on https://www.sagioscode.com/
 - 💬 Ask me about programming topics
 - 📫 How to reach me: santiago9606@gmail.com
 - 😄 Pronouns: Sachi
