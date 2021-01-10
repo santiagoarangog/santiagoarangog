@@ -10,5 +10,5 @@ I am passionate and in love with Front End, my being is creative and I always li
 - 💬 Ask me about programming topics
 - 📫 How to reach me: santiago9606@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/santiago-arango-gutierrez/)
-- 😄 Pronouns: Sachi
+- 😄 They say i'm grumpy but I'm actually a cool guy
 
