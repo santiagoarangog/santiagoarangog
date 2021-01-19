@@ -3,7 +3,7 @@
 -->
 ### Front-End Developer 🤙
 
-I am passionate and in love with Front End, my being is creative and I always like to provide the best user experience in the projects that I am involved in and that you will see in my repositories :)
+I am passionate and in love with Front End, my being is creative and I always like to provide the best user experience in the projects that I am involved and writing code to help others achieve their goals
 
 - 🔭 I’m currently working on Clínica Somer Rionegro (Ant) 🔖
 - 🌱 I’m currently learning Go
