@@ -9,6 +9,13 @@ Version: 0.0.37
 Publisher: Gruntfuggly
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar
 ---
+Name: Auto Import
+Id: steoates.autoimport
+Description: Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX
+Version: 1.5.3
+Publisher: steoates
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+---
 Name: Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 Id: mikael.angular-beastcode
 Description: 242 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS, PWA & Testing)
@@ -29,6 +36,13 @@ Description: Angular version 11 snippets by John Papa
 Version: 11.0.0
 Publisher: John Papa
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+---
+Name: Angular Follow Selector
+Id: sanderledegen.angular-follow-selector
+Description: Enables clicking on Angular selectors in your HTML files and being redirected to their component definition, as well as the other way around by clicking on templateUrl and styleUrls in your component.
+Version: 1.2.0
+Publisher: Sander Ledegen
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=sanderledegen.angular-follow-selector
 ---
 Name: angular2-inline
 Id: natewallace.angular2-inline
