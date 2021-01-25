@@ -2,6 +2,20 @@
 ༼ つ ◕_◕ ༽つ Ask me about why do I think aliens 👽 exist.
 
 ---
+Name: Better Comments
+Id: aaron-bond.better-comments
+Description: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+Version: 2.1.0
+Publisher: Aaron Bond
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+---
+Name: Path Intellisense
+Id: christian-kohler.path-intellisense
+Description: Visual Studio Code plugin that autocompletes filenames
+Version: 2.3.0
+Publisher: Christian Kohler
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+---
 Name: Activitus Bar
 Id: gruntfuggly.activitusbar
 Description: Save some real estate by recreating the activity bar buttons on the status bar
@@ -155,6 +169,13 @@ Description: Provides formatting for the HTML code in PHP files using JSbeautify
 Version: 1.7.0
 Publisher: rifi2k
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php
+---
+Name: Quokka.js
+Id: wallabyjs.quokka-vscode
+Description: JavaScript and TypeScript playground in your editor.
+Version: 1.0.338
+Publisher: Wallaby.js
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 ---
 Name: Go
 Id: golang.go
