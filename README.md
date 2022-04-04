@@ -4,7 +4,7 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 #### I am a Software Developer 🤙
 
-I am a passionate and in love with everything related to Front End, my being is creative and I always like to provide the best user experience in the projects that I am involved with and also writing code in order to help others achieve their goals.
+I am a passionate and lovely with everything related to Front End, my being is creative and I always like to provide the best user experience in the projects that I am involved with and also writing code in order to help others achieve their goals.
 
 - 🔭 I’m currently working on Experimentality in Colombia (Ant) 🔖
 - 🌱 I’m currently learning Angular
