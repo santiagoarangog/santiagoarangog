@@ -2,9 +2,9 @@
 **santiagoarangog/santiagoarangog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-#### I am a Software Developer 🤙
+#### I'm a Software Developer 🤙
 
-I am passionate and lovely with everything related to Front End and Technology, my being is creative and I always like to provide the best user experience in the projects that I am involved with and also writing code in order to help others achieve their goals.
+I'm a passionate and lovely with everything related to Front End and Technology, my being is creative and I always like to provide the best user experience in the projects that I am involved with and also writing code in order to help others achieve their goals.
 
 - 🔭 I’m currently working on Experimentality Labs in Colombia (Ant) 🔖
 - 🌱 I’m currently learning React Native and Node JS
