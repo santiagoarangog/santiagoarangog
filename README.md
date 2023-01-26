@@ -7,7 +7,7 @@
 I'm a passionate and lovely with everything related to Front End and Technology, my being is creative and I always like to provide the best user experience in the projects that I am involved with and also writing code in order to help others achieve their goals.
 
 - 🔭 I’m currently working on Experimentality Labs in Colombia (Ant) 🔖
-- 🌱 I’m currently learning React Native and Node JS
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about programming topics
 - 📫 How to reach me: santiago9606@gmail.com
 - [![Linkedin: santiagoarangog](https://img.shields.io/badge/-Santiago%20Arango%20Gutierrez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-arango-gutierrez/)](https://www.linkedin.com/in/santiago-arango-gutierrez/)
